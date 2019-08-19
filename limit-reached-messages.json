@@ -1,0 +1,51 @@
+[
+    {
+        "tld": ".org",
+        "message": "WHOIS LIMIT EXCEEDED - SEE WWW.PIR.ORG/WHOIS FOR DETAILS"
+    },
+    {
+        "tld": ".top",
+        "message": "Your access is too fast,please try again later."
+    },
+    {
+        "tld": ".cz",
+        "message": "Your connection limit exceeded."
+    },
+    {
+        "whois_server": "whois.registry.in",
+        "message": "Number of allowed queries exceeded."
+    },
+    {
+        "tld": ".io",
+        "message": "WHOIS LIMIT EXCEEDED"
+    },
+    {
+        "tld": [
+            ".ch",
+            ".li"
+        ],
+        "message": "Requests of this client are not permitted."
+    },
+    {
+        "whois_server": "whois.name.com",
+        "message": "Too many connection attempts. Please try again in a few seconds."
+    },
+    {
+        "whois_server": [
+            "whois.internet.bs",
+            "whois.tldregistrarsolutions.com"
+        ],
+        "message": "We are unable to process your request at this time."
+    },
+    {
+        "whois_server": "whois.namecheap.com",
+        "message": "HTTP/1.1 400 Bad Request"
+    },
+    {
+        "message": "Closing connections because of Timeout"
+    },
+    {
+        "whois_server": "whois.isoc.org.il",
+        "message": "Access to whois service at whois.isoc.org.il was **DENIED**"
+    }
+]
