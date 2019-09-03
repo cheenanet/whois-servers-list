@@ -1,7 +1,7 @@
 [
     {
         "tld": ".org",
-        "message": "WHOIS LIMIT EXCEEDED - SEE WWW.PIR.ORG/WHOIS FOR DETAILS"
+        "message": "WHOIS LIMIT EXCEEDED - SEE WWW.PIR.ORG\/WHOIS FOR DETAILS"
     },
     {
         "tld": ".top",
@@ -39,7 +39,7 @@
     },
     {
         "whois_server": "whois.namecheap.com",
-        "message": "HTTP/1.1 400 Bad Request"
+        "message": "HTTP\/1.1 400 Bad Request"
     },
     {
         "message": "Closing connections because of Timeout"
