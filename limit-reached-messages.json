@@ -47,5 +47,9 @@
     {
         "whois_server": "whois.isoc.org.il",
         "message": "Access to whois service at whois.isoc.org.il was **DENIED**"
+    },
+    {
+        "whois_server": "whois.networksolutions.com",
+        "message": "IP Address Has Reached Rate Limit"
     }
 ]
