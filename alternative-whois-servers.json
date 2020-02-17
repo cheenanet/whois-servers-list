@@ -48,6 +48,7 @@
     "https:\/\/donweb.com": "whois.donweb.com",
     "http:\/\/donweb.com": "whois.donweb.com",
     "whois.reg.com": "whois.reg.ru",
+    "dnspod.cn": "whois.dnspod.com",
     "whois.ovh.net": null,
     "dynadot.com\/whois": null,
     "www.dynadot.com": null,
@@ -174,5 +175,10 @@
     "whois.cyandomains.com": null,
     "whois.french-connexion.com": null,
     "whois.domainthenet.com": null,
-    "whois.isimtescil.net": null
+    "whois.isimtescil.net": null,
+    "whois.above.com": null,
+    "whois.paknic.com": null,
+    "whois.threadagent.com": null,
+    "whois.digivity.com": null,
+    "whois.regtime.net": null
 }
