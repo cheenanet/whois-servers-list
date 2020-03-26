@@ -304,7 +304,7 @@
     [[".ws"], "whois.website.ws", "The queried object does not exist:"],
     [[".wtc"], "whois.nic.wtc", "No Data Found"],
     [[".ps", ".xn--ygbi2ammx"], "whois.pnina.ps", "Domain Status: No Object Found"],
-    [[".xxx"], "whois.nic.xxx", "NOT FOUND\n"],
+    [[".xxx"], "whois.nic.xxx", "is available for registration"],
     [[".yoga"], "whois.nic.yoga", "is available for registration"],
     [[".yt"], "whois.nic.yt", "No entries found"],
     [[".co.za"], "whois.registry.net.za", "Available"],
