@@ -27,6 +27,9 @@ WHOIS Server for TLDs.
 **Type**: string | null  
 Response message from WHOIS server that the domain is not registered.
 
+## ipv4.json
+WHOIS servers list for IP addresses.
+
 ## limit-reached-messages.json
 Response messages from WHOIS server when reached limit for WHOIS lookup.
 
