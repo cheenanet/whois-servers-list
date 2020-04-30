@@ -355,6 +355,7 @@
     [[".kw"], null, null],
     [[".com.mm", ".edu.mm", ".gov.mm", ".net.mm", ".org.mm"], null, null],
     [[".my", ".com.my", ".edu.my", ".gov.my", ".net.my", ".org.my"], null, null],
+    [[".pk"], null, null],
     [[".rent"], null, null],
     [[".ro", ".arts.ro", ".com.ro", ".firm.ro", ".info.ro", ".nom.ro", ".nt.ro", ".org.ro", ".rec.ro", ".store.ro", ".tm.ro", ".www.ro"], null, null],
     [[".rw"], null, null],
