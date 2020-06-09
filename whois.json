@@ -227,7 +227,7 @@
     [[".ruhr"], "whois.nic.ruhr", "The queried object does not exist: no matching objects found"],
     [[".samsung"], "whois.nic.samsung", "DOMAIN NOT FOUND\n"],
     [[".saarland"], "whois.nic.saarland", "The queried object does not exist:"],
-    [[".sb"], "whois.nic.sb", "No Object Found"],
+    [[".sb", ".com.sb", ".net.sb", ".org.sb", ".edu.sb", ".gov.sb"], "whois.nic.sb", "No Object Found"],
     [[".sca"], "whois.nic.sca", "No match for"],
     [[".scb"], "whois.nic.scb", "NOT FOUND\n"],
     [[".schmidt"], "whois.nic.schmidt", "No Data Found"],
