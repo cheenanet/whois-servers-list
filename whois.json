@@ -276,7 +276,7 @@
     [[".tw", ".xn--kprw13d", ".xn--kpry57d"], "whois.twnic.net.tw", ["No Found", "網域名稱不合規定"]],
     [[".com.tw", ".net.tw", ".org.tw"], "whois.twnic.net", "No Found"],
     [[".tz", ".co.tz", ".or.tz", ".ac.tz", ".go.tz", ".hotel.tz", ".info.tz", ".me.tz", ".mobi.tz", ".ne.tz", ".or.tz", ".sc.tz", ".tv.tz"], "whois.tznic.or.tz", "% No entries found."],
-    [[".ua", ".com.ua", ".dn.ua", ".kh.ua", ".kiev.ua", ".lg.ua", ".lviv.ua", ".net.ua", ".org.ua", ".kharkov.ua", ".kherson.ua"], "whois.ua", "No entries found"],
+    [[".ua", ".com.ua", ".dn.ua", ".kh.ua", ".kiev.ua", ".lg.ua", ".lviv.ua", ".net.ua", ".org.ua", ".kharkov.ua", ".kherson.ua", ".edu.ua", ".in.ua"], "whois.ua", "No entries found for"],
     [[".biz.ua"], "whois.biz.ua", "No entries found"],
     [[".co.ua"], "whois.co.ua", "No entries found"],
     [[".ug", ".ac.ug", ".co.ug", ".go.ug", ".ne.ug", ".or.ug", ".org.ug", ".sc.ug"], "whois.co.ug", "No entries found"],
