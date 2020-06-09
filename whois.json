@@ -75,7 +75,7 @@
     [[".desi"], "whois.nic.desi", "The queried object does not exist:"],
     [[".dk"], "whois.dk-hostmaster.dk", "No entries found"],
     [[".dm"], "whois.nic.dm", "not found...\n"],
-    [[".do"], "whois.nic.do", "No Object Found"],
+    [[".do", ".com.do", ".net.do", ".org.do", ".edu.do", ".gov.do", ".gob.do"], "whois.nic.do", "No Object Found"],
     [[".download"], "whois.nic.download", "No Data Found"],
     [[".durban"], "durban-whois.registry.net.za", "Available"],
     [[".dvag"], "whois.nic.dvag", "The queried object does not exist:"],
