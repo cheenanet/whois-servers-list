@@ -120,7 +120,7 @@
     [[".horse"], "whois.nic.horse", "is available for registration"],
     [[".hr"], "whois.dns.hr", "No entries found"],
     [[".ht"], "whois.nic.ht", "Domain Status: No Object Found"],
-    [[".hu"], "whois.nic.hu", "No match"],
+    [[".hu", ".co.hu", ".net.hu", ".or.hu", ".org.hu", ".edu.hu", ".gov.hu", ".info.hu", ".asn.hu", ".fam.hu", ".priv.hu"], "whois.nic.hu", "No match"],
     [[".ibm"], "whois.nic.ibm", "No Data Found"],
     [[".id", ".co.id", ".net.id", ".or.id", ".ac.id", ".go.id", ".mil.id", ".web.id", ".my.id", ".sch.id", ".biz.id", ".desa.id"], "whois.pandi.or.id", "DOMAIN NOT FOUND"],
     [[".ie"], "whois.domainregistry.ie", "% Not Registered"],
