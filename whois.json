@@ -12,6 +12,7 @@
     [[".am"], "whois.amnic.net", "No match\n"],
     [[".amsterdam"], "whois.nic.amsterdam", "Domain Status: free\n"],
     [[".aquarelle"], "whois-aquarelle.nic.fr", "The queried object does not exist:"],
+    [[".ar", ".com.ar", ".net.ar", ".org.ar", ".bet.ar", ".edu.ar", ".gob.ar", ".int.ar", ".mil.ar", ".musica.ar", ".tur.ar"], "whois.nic.ar", "El dominio no se encuentra registrado en NIC Argentina"],
     [[".as"], "whois.nic.as", "NOT FOUND\n"],
     [[".asia"], "whois.nic.asia", "NOT FOUND\n"],
     [[".at", ".ac.at", ".co.at", ".gv.at", ".or.at"], "whois.nic.at", "% nothing found\n"],
