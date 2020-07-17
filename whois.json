@@ -197,7 +197,7 @@
     [[".nu"], "whois.iis.nu", "not found."],
     [[".nyc"], "whois.nic.nyc", "No Data Found\n"],
     [[".nz", ".ac.nz", ".co.nz", ".geek.nz", ".gen.nz", ".iwi.nz", ".kiwi.nz", ".maori.nz", ".net.nz", ".org.nz", ".school.nz"], "whois.srs.net.nz", "220 Available"],
-    [[".om", ".xn--mgb9awbf"], "whois.registry.om", "No Data Found"],
+    [[".om", ".co.om", ".com.om", ".org.om", ".net.om", ".edu.om", ".gov.om", ".museum.om", ".pro.om", ".med.om", ".xn--mgb9awbf"], "whois.registry.om", "No Data Found"],
     [[".one"], "whois.nic.one", "No Data Found"],
     [[".online"], "whois.nic.online", "The queried object does not exist:"],
     [[".ooo"], "whois.nic.ooo", "The queried object does not exist:"],
