@@ -201,7 +201,7 @@
     [[".one"], "whois.nic.one", "No Data Found"],
     [[".online"], "whois.nic.online", "The queried object does not exist:"],
     [[".ooo"], "whois.nic.ooo", "The queried object does not exist:"],
-    [[".osaka", "whois.nic.osaka", "No Data Found"]],
+    [[".osaka"], "whois.nic.osaka", "No Data Found"],
     [[".ovh"], "whois-ovh.nic.fr", "The queried object does not exist:"],
     [[".paris"], "whois-paris.nic.fr", "The queried object does not exist:"],
     [[".party"], "whois.nic.party", "No Data Found"],
